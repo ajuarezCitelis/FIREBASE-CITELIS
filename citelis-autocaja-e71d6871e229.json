@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "citelis-autocaja",
+  "private_key_id": "e71d6871e22933652ff64c7825e237cbb1c057f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDmmKYFj3Knu4Py\n3+uQ7W7SL8mRa/oCxpwzv+y0leIK36CW9mZr+cCb29fw7bBfG1ZJigygGN5pELJL\n/AatkHE8uyr4t+MD0qGQGpuSNBLCE3x+xbW5OfhEi04izL0aSMJwlYKxwIvlAXaQ\nQaNql0c7ZAAVrS6IiGFlPOhrcb04Ypkm0/uOj+9J0FKT4+S6qWxB8+ajsG9nQvPG\nx91tTgvr2/XRgy6rAeUNaVPAZS9U3oBuxFeKIz1FGd1Stx+84LsFi6SkvMQIKePQ\n6XwAx2o4Tbx4W2xAIA+NNbjDRHT6skjwNdGRHteVBzYik8kSD1ywCmdsiA4mWHHX\neb5rCJdNAgMBAAECggEAYTZ0Mz7ksqKiP0c4C3qVMCX2P4i6NuZc3pIoK39OcpAR\nJuNMjXOWR/6X3BmQM6AWMd1xciLZzIg96jue4xfULSqotH7tROTMuLAG6s1qJQhL\nATS/Zg1yxQ7HS3Ntu0F2OzlEhkQqlcoWnj0Vs+9/l6GSSZEfX27DRIc3YmhqQXS+\nyIaqqPhrpyOmlEK1kqWPKHVChHd/PVdzZr0p3SC+YqJDFZBBsPPjTpzF4yGQi2ty\n/iXSxFqvNCFK0TIDXF1LBv41GexuJb7gofJe3ZLHpCB6VHoUsAB7NbRXcAYb+EBD\nZW2DQQIRuCNLne1OW6JkKIxiUeFA9eiZ5zkCzFGYjwKBgQD0P3VRs7jPzTMIha9x\nytZ/unBNAvC7L54QX0itURuxj3c/8XjbKIOUKHbsi16ReeCBlovxKsLh2EDbfHNq\n1bNhDTqPSYDiRmzSNoKj9E9RXw3g1kXfR1+rWUi36DT3Ee75q0xZEFM/MR5Pr9o/\n95/03VlUnn4EU5jdzEBPpoXsmwKBgQDxsQketYpFd3p1BsQzNm/0AuXsn8opw8TZ\nMQ4X5CuJsRTWWBgVY9F6jacxVQHWpngVGHPXO6EhDpnHI2YvJKZO4Xz/bqsrA+HX\nWJiVn2xcJZ8kpLUM76kEOKyNxWpJk8sejXDbLwH87nYHn0xuzYgKZFXvsu1D0ist\n2AD7C0dmNwKBgF1++SrYUDODijiF7B30Fl34gUqJiJsu5CPCRbDKrn4uu+hHSAsk\nnBGX18Y+p2mqrM0OUu1zf/wx6snZ/thzi2HoTXVSHrr/WGKzqRiXydENQOPDQiXx\nTWbrG5ICmlvFiqQZ9XTWcfdrlv3MBBCeeqWiIbLppLWFRqwIpsmWpgdnAoGBAOly\nCxILXUvttG02pOmmagoxhm3AhV9DxW3XcPponBj53tuN6W03pc0O52/B4O24iwIt\nRS6eXOr2FFiBe6CLcMt+BuMdvNzmegwree4DN4HloMqfAHVHQ2RdbWXeSeRZiXaw\nPVKoG+53Ua/ZENVxVjZbZZoJpBy+8o/sND5HTaaPAoGADcnVxIDpBCDbel/yjsXA\n6Ho01vHCz0uykLEjq8zL9lvnh5OlgP9tkRN3kcuKpUkCeT5Fl2n7lVHukno6vpmI\n7Xh2gxFR6UrflR42DGXcsF1BVGpNSF4wyGoj5AzJ3/hhp3FgkykojdILDP1LVbep\nWVmPbRdWLjY+oH0MaGkddRY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "reader@citelis-autocaja.iam.gserviceaccount.com",
+  "client_id": "114480346139976438294",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reader%40citelis-autocaja.iam.gserviceaccount.com"
+}
