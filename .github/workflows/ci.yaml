@@ -5,7 +5,7 @@ name: Node.js Package
 
 on:
   push:
-    branches: [ main ]
+    workflow_run: [ main ]
 
 jobs:
   publish-npm:
