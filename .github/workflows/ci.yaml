@@ -8,7 +8,7 @@ on:
     workflow_run: [ main ]
 
 jobs:
-  publish-npm:
+
     needs: build
     runs-on: ubuntu-latest
     steps:
