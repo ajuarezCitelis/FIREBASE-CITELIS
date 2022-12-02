@@ -8,7 +8,6 @@ on:
     workflow_run: [ main ]
 
 jobs:
-
     needs: build
     runs-on: ubuntu-latest
     steps:
